@@ -20,5 +20,22 @@ These rules are LOCKED. Read `docs/` before writing anything new.
 - Script: 75–90 pages (target 80). Teaser + 6 Acts. 24–30 scenes (target 28).
 - 2005 tech only: no Twitter, iPhone, Instagram, or streaming. Facebook is college-only. YouTube launches in 2005.
 
-## Core family
-The Donohues — Victor, Joan, Jasmine, Natasha, Alvin. "Black Royalty." They live in a fictional gated community in affluent metro Atlanta.
+## Canon documents (docs/ → pdf/)
+01 Format Bible · 02 Character Bible · 03 Donohue Global Holdings · 04 Belmont Crest · 05 Smilleys & Smilley International · 06 Blackwater Syndicate & BSI · 07 Supporting Cast.
+Every birthday lives in `data/birthdays.csv`. For exact ages on any date, run `python3 tools/ages.py YYYY-MM-DD [name]`.
+After editing docs, run `python3 tools/md2pdf.py docs/*.md && python3 tools/combine_pdfs.py` (requires reportlab and pymupdf).
+
+## Key canon (summary. The docs win on any conflict.)
+- Belmont Crest: One Belmont Crest Parkway NW, Atlanta, GA 30327 (NW Buckhead, off West Paces Ferry Rd, on the Chattahoochee bluffs). Founded 1958. 1,140 acres. The Donohue compound is on Sovereign Way.
+- Donohue Global Holdings: $10T valuation. Family fortune over $2.5T. Alexander (1905–1999, died 11:58 PM Dec 31, 1999). Simone (b. Nov 2, 1910) is alive. Victor has been Chairman & CEO since 1996. Natasha has been CEO of DHG since 1996.
+- Victor & Joan married June 20, 1959. (The user's brief also said 1969. 1959 was chosen because Jasmine was born in 1960.)
+- The Crown Trust / 1996 Codicil: Marc-Anthony is Heir Apparent. Vice Chair-designate at 25 (Jan 5, 2007). The Disgrace Clause is Martin's weapon. The "Line of Issue" clause makes the twins Donohue heirs.
+- Smilleys (Chicago → Atlanta, Jan 2005): Odessa, Lucius, Vivienne, Desmond, Luke, Delphine, Esther, Quentin. Smilley Tower is at 3434 Peachtree Rd NE. Their estate, Ravenhurst, borders Belmont Crest.
+- Feud origin: the Savannah Betrayal, March 7, 1952. Simone holds the Savannah Letter.
+- Blackwater Syndicate founded Sept 29, 2000 (the origin is Grace's July 15, 2000 rescue). BSI founded April 16, 2002. Marc = "Sovereign." The Seven, the empty Eighth Chair, the Onyx Coin, the Ten Laws. In this universe there is no real "Blackwater USA."
+- Twins conceived Sat Sept 1, 2001, at a Sag Harbor masquerade (Esther wore a gold mask). Marc has zero idea. Esther's cover story is IVF with an anonymous donor. She is engaged to Sebastian Kingsley.
+- Amond & Harmony: Lyric was conceived after a one-night stand in July 2001. They co-parent through lawyers and "don't know each other." Marc is Lyric's godfather. Esther always avoids Marc.
+- Arianna: Fulton County DA, sworn in Jan 1, 2005. She killed Darnell Divine (Harmony's brother) on Jan 1, 2002, and Marc hid it.
+- Elxa: APD Chief, sworn in Dec 20, 2004, at 24. The "Nepotism Chief" controversy. She hunts Sovereign.
+- Katrina (Mon Aug 29, 2005, Elxa's 25th birthday) is a planned arc for BSI and Blackwater in Simone's hometown.
+- Master Secrets Ledger: Doc 02 (plus the Smilley ledger in Doc 05).

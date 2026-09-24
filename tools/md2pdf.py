@@ -12,7 +12,7 @@ from reportlab.lib.enums import TA_CENTER
 from reportlab.lib.pagesizes import letter
 from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
 from reportlab.lib.units import inch
-from reportlab.platypus import (HRFlowable, ListFlowable, ListItem, Paragraph,
+from reportlab.platypus import (HRFlowable, Paragraph,
                                 Preformatted, SimpleDocTemplate, Spacer, Table,
                                 TableStyle)
 
@@ -36,6 +36,7 @@ S = {
 
 def inline(text):
     text = text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    text = re.sub(r"\*\*\*(.+?)\*\*\*", r"<b><i>\1</i></b>", text)
     text = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", text)
     text = re.sub(r"(?<!\*)\*(?!\s)(.+?)(?<!\s)\*(?!\*)", r"<i>\1</i>", text)
     return text
@@ -71,14 +72,22 @@ def build(md_path, out_dir):
             flow += [t, Spacer(1, 8)]
             continue
         elif re.match(r"^\s*(-|\d+\.)\s", line):
-            items = []
-            ordered = bool(re.match(r"^\s*\d+\.", line))
+            counters = {}
             while i < len(lines) and re.match(r"^\s*(-|\d+\.)\s", lines[i]):
-                txt = re.sub(r"^\s*(-|\d+\.)\s", "", lines[i])
-                items.append(ListItem(Paragraph(inline(txt), S["body"]), leftIndent=14))
+                m = re.match(r"^(\s*)(-|\d+\.)\s(.*)", lines[i])
+                level = len(m.group(1)) // 2
+                counters = {k: v for k, v in counters.items() if k <= level}
+                if m.group(2) == "-":
+                    bullet = "\u2022" if level % 2 == 0 else "\u2013"
+                else:
+                    counters[level] = counters.get(level, 0) + 1
+                    bullet = f"{counters[level]}."
+                style = ParagraphStyle(f"li{level}", parent=S["body"],
+                                       leftIndent=18 + level * 18,
+                                       bulletIndent=6 + level * 18, spaceAfter=2)
+                flow.append(Paragraph(inline(m.group(3)), style, bulletText=bullet))
                 i += 1
-            flow.append(ListFlowable(items, bulletType="1" if ordered else "bullet",
-                                     start="1" if ordered else None, leftIndent=14))
+            flow.append(Spacer(1, 4))
             continue
         elif s.startswith("# "):
             flow.append(Paragraph(inline(s[2:]), S["h1"]))
