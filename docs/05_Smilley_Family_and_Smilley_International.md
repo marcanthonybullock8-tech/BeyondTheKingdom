@@ -14,7 +14,7 @@ They are the **second-wealthiest family in the world** and the Donohues' **fierc
 | Item | Detail |
 |---|---|
 | Family fortune | About **$640 billion** (second in the world) |
-| Company | **Smilley International, Inc.** (privately held) |
+| Company | **Smilley International, Inc.** (privately held; family holds 100% of votes and 33.7% of the equity. **Full share distribution in Document 13.**) |
 | Valuation | About **$1.9 trillion** |
 | Atlanta estate | **Ravenhurst**, 4 Ravenhurst Lane NW, Atlanta, GA 30327. A 1920s French château bought in 2004 on 90 acres just east of Belmont Crest's wall. |
 | Chicago estate | **Hart House**, 4900 S. Greenwood Ave., Kenwood, Chicago (still owned; Odessa's favorite) |

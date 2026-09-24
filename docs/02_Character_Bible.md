@@ -205,7 +205,7 @@
 - **IQ:** A reported **250**, the highest ever recorded. He has a reputation for exceptional intelligence: he reads a 400-page contract in 20 minutes, speaks nine languages, and plays chess against three people at once while roasting all of them.
 - **Founder, Chairman & CEO, Blackwater Security International (BSI), 2002–present** (see Document 06).
 - **SECRET (maximum clearance): Founder & Boss of the Blackwater Syndicate (2000–present), known only as "SOVEREIGN."** Only the Syndicate's inner circle, "The Seven," know his face. Arianna Cummings knows but is not a member.
-- **Net worth:** Forbes' publicly estimated figure is **$38.6 billion (2005)**. The true figure, counting everything off the books, is much higher. His **future personal net worth will pass $990 billion and keep rising every single day.**
+- **Net worth:** Forbes' publicly estimated figure is **$38.6 billion (2005)**. The true figure is much higher. Forbes can't see his sealed DGH trust interests ($150B; see Document 13) or anything off the books. His **future personal net worth will pass $990 billion and keep rising every single day.**
 - **Personality:**
   - **The sweetest, kindest, most loving, compassionate, innocent, and pure man in the world.** He tips waiters 100%, remembers every staff member's kids' birthdays, and cries at movies.
   - **But hurt someone he loves and he becomes a monster: a dangerous, unstoppable man.** There's no middle setting.

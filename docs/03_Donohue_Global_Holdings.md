@@ -21,7 +21,7 @@
 | Family fortune | **More than $2.5 trillion.** The wealthiest family in the world. |
 | Employees | About 4.1 million, directly and through controlled subsidiaries |
 | Countries | 171 |
-| Ownership | 100% of voting control held by **the Crown Trust** (the Alexander & Simone Donohue Family Trust) |
+| Ownership | 100% of voting control held by **the Crown Trust** (the Alexander & Simone Donohue Family Trust). The family's economic stake is 26%. **Full share distribution in Document 13.** |
 | Motto | *Aedificamus quod negatum est.* ("We build what was denied.") |
 
 **How the empire is built:**
@@ -123,7 +123,7 @@
 ## Part Seven — The Modern Empire (2000–2005)
 
 - **2000–2002:** After the dot-com crash, DGH buys distressed technology companies.
-- **After September 11, 2001:** Donohue Aerospace & Defense and Donohue Technologies grow enormously. DGH is also among the **first contract clients of Blackwater Security International** (founded 2002). The board votes 9–1 to hire the Heir Apparent's new company. The one "no" vote comes from a trustee who sits for Theodore's branch of the family.
+- **After September 11, 2001:** Donohue Aerospace & Defense and Donohue Technologies grow enormously. DGH is also among the **first contract clients of Blackwater Security International** (founded 2002). The board votes 12–1 to hire the Heir Apparent's new company. The one "no" vote comes from a trustee who sits for Theodore's branch of the family.
 - **2003:** DGH's valuation passes **$8 trillion**. **March 2003:** Theodore sues to break the Codicil and loses. Simone banishes him from the Summit for two years ("The Exile").
 - **2004:** DGH's valuation reaches **$10 trillion**. The company commits **$25 billion** to rebuilding HBCU campuses nationwide.
 - **December 2004:** **Smilley International announces it will move its world headquarters from Chicago to Atlanta.** Victor reads the news, sets down the paper, and says only: *"Tell my mother."*

@@ -64,16 +64,22 @@ def build(md_path, out_dir):
                     raw.append(cells)
                 i += 1
             ncol = len(raw[0])
-            # Width follows content: longest cell per column, clamped.
-            def need(c):
+            # Every column is at least as wide as its longest word; the rest
+            # of the page width is shared in proportion to content length.
+            page_w = 6.8 * inch
+            floors, weights = [], []
+            for c in range(ncol):
                 cells = [re.sub(r"[*`]", "", r[c]) for r in raw if c < len(r)]
-                longest_word = max((len(w) for x in cells for w in x.split()), default=4)
-                return min(max(max(len(x) for x in cells), longest_word + 3, 7), 60)
-            weights = [need(c) for c in range(ncol)]
-            total = sum(weights)
+                longest_word = max((len(w) for x in cells for w in x.split()), default=3)
+                floors.append(longest_word * 0.085 * inch + 0.22 * inch)
+                weights.append(min(max(len(x) for x in cells), 60))
+            spare = max(page_w - sum(floors), 0)
+            widths = [f + spare * w / sum(weights) for f, w in zip(floors, weights)]
+            scale = page_w / sum(widths)
+            widths = [w * scale for w in widths]
             rows = [[Paragraph(inline(c), S["cell"]) for c in r] for r in raw]
             t = Table(rows, repeatRows=1, hAlign="LEFT",
-                      colWidths=[6.8 * inch * w / total for w in weights])
+                      colWidths=widths)
             t.setStyle(TableStyle([
                 ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#E9E1F2")),
                 ("GRID", (0, 0), (-1, -1), 0.4, colors.HexColor("#999999")),

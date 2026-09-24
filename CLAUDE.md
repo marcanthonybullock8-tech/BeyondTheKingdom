@@ -21,7 +21,7 @@ These rules are LOCKED. Read `docs/` before writing anything new.
 - 2005 tech only: no Twitter, iPhone, Instagram, or streaming. Facebook is college-only. YouTube launches in 2005.
 
 ## Canon documents (docs/ → pdf/)
-01 Format Bible · 02 Character Bible · 03 Donohue Global Holdings · 04 Belmont Crest · 05 Smilleys & Smilley International · 06 Blackwater Syndicate & BSI · 07 Supporting Cast · 08 Cast Categories & Episode Counts · 09 World Building · 10 Season 1 Storylines · 11 Season 1 Episode Guide (generated) · 12 Opening Title Sequence.
+01 Format Bible · 02 Character Bible · 03 Donohue Global Holdings · 04 Belmont Crest · 05 Smilleys & Smilley International · 06 Blackwater Syndicate & BSI · 07 Supporting Cast · 08 Cast Categories & Episode Counts · 09 World Building · 10 Season 1 Storylines · 11 Season 1 Episode Guide (generated) · 12 Opening Title Sequence · 13 Ownership & Share Structures.
 Every birthday lives in `data/birthdays.csv`. For exact ages on any date, run `python3 tools/ages.py YYYY-MM-DD [name]`.
 Doc 11 is generated. Edit `data/season1_synopses.txt` (one line per episode, in order), then run `python3 tools/build_episode_guide.py`.
 After editing docs, run `python3 tools/md2pdf.py docs/*.md && python3 tools/combine_pdfs.py` (requires reportlab and pymupdf).
@@ -40,6 +40,12 @@ After editing docs, run `python3 tools/md2pdf.py docs/*.md && python3 tools/comb
 - Elxa: APD Chief, sworn in Dec 20, 2004, at 24. The "Nepotism Chief" controversy. She hunts Sovereign.
 - Katrina (Mon Aug 29, 2005, Elxa's 25th birthday) is a planned arc for BSI and Blackwater in Simone's hometown.
 - Master Secrets Ledger: Doc 02 (plus the Smilley ledger in Doc 05).
+
+## Ownership (Doc 13)
+- DGH has 100M shares at $100K each. The Crown Trust holds all 2M Class A shares, which is 100% of the votes and 2% of the equity. The family dynasty trusts hold 24%, for a family total of 26% ($2.6T). The Foundation holds 4.2% ($420B). Employees hold 9%. The rest belongs to outside non-voting investors. Under the "Blood Rule," in-laws own nothing.
+- Key trusts: Simone holds 6%, which passes to the Heir Apparent's line when she dies. The Heir Apparent Trust holds 1% (sealed until Marc turns 25). The Future Issue Trust holds 1% ($100B) for Marc's children, which secretly means the twins.
+- Donohue Enterprises: DGH holds 95% (all of the votes), the Enterprise Partners' Plan 4.5%, and the Bellmen's Trust 0.5%. Certificate No. 1 is a golden-share veto held by Simone that passes to the Heir Apparent.
+- Smilley has 190M shares at $10K each. Class A (10% of the equity) holds all of the votes. The family owns 33.7% ($640B). Votes: Lucius 34, Odessa 20, Desmond 16, Esther 12, Luke 6, Delphine 6, Vivienne 4, Quentin 2. A CEO needs a majority, so Odessa is the kingmaker.
 
 ## Opening titles (Doc 12)
 - There are 23 standard "Hall of Portraits" credits for the adult Contract and Featured cast. Sebastian joins at #46 and Julian Cross at #74 (credited under the alias all season).
