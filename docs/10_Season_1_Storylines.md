@@ -86,7 +86,7 @@
 ### 6. "LYRIC'S LAW" — Amond & Harmony
 **Logline:** Two strangers who share a daughter are forced into one penthouse by danger, and into each other's arms by everything else.
 - **Beats:**
-  - Gloria's grandparent-visitation petition (#9)
+  - Gloria's grandparent-visitation petition is served (#1–#2). Harmony refuses the one-Sunday compromise (#3), and the court orders a hearing (#9).
   - The evaluator (#17)
   - The nursery break-in (#29) and moving into the penthouse (#30)
   - Sleeping together after the ball (#52)

@@ -29,7 +29,7 @@ Every episode's in-universe story day matches its airdate unless the synopsis sa
 
 - **#0008 · Wed., Jan. 12** — At Velvet, Mallory meets a charming DJ who calls himself only "Q," and they talk until 3 a.m. Across town, Martin meets Desmond Smilley in the Ritz-Carlton Buckhead bar: "It seems we have the same problem."
 
-- **#0009 · Thu., Jan. 13** — Gloria Baker serves Harmony with a grandparent-visitation petition. Harmony blames Amond, who knew nothing about it. Elxa's first command-staff meeting leaks to the press within the hour, courtesy of Deputy Chief Hughes.
+- **#0009 · Thu., Jan. 13** — Harmony turns down Gloria's offer of one Sunday a month, so Gloria's lawyer presses on. The court sets a hearing and orders a family evaluation, and Harmony blames Amond for all of it. Elxa's first command-staff meeting leaks to the press within the hour, courtesy of Deputy Chief Hughes.
 
 - **#0010 · Fri., Jan. 14** — The Seven trace the counterfeit Onyx Coins to a private mint in Johannesburg. Jeremy finds security footage from Piedmont Park showing a tall white man. *Cliffhanger:* Martin slides Cyrus Knox a thick envelope: "Again. Bigger."
 
