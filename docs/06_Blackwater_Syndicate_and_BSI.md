@@ -50,6 +50,7 @@
   - Sergeant Pruitt resigns in disgrace in November 2000 after anonymous evidence reaches Internal Affairs and the newspapers.
   - The commissioner is indicted in December 2000.
   - **Vaughn "Silk" Harlow and three of his lieutenants are never seen again.** Each of their empty apartments has an Onyx Coin on the kitchen table.
+  - **SECRET (Blackwater's only failure):** Harlow **survived** "the river" with his face destroyed. In April 2001 he paid Dr. Peter Olson $5 million to rebuild it in Cancún. In **2005** he returns to Atlanta as **"Julian Cross"** (see Document 07). Nobody in the Syndicate knows.
 - The streets start whispering a name: **"Sovereign."**
 
 ## Growth (2001–2004)
@@ -59,7 +60,7 @@
 | **Early 2001** | Recruitment of the core. The Syndicate takes over the ring's former territory and its illegal gambling operations and "cleans" them: no predators, no minors, no drugs sold to kids. |
 | **Spring 2001** | **Tobias Okafor**, a 21-year-old MIT dropout, joins as "The Ledger." **Keisha Lattimore** ("Ghost"), a hacker, is recruited after she breaks into Harvard's systems to change Marc's parking tickets as a job application. |
 | **Summer 2001** | **Roman Gaines**, a decorated Army Ranger discharged for striking an officer who used a slur, joins as "The Hammer." **Dolores "Mama Dee" Whitfield** joins as "The Tithe" after Sovereign finds her grandson's killer. |
-| **Tuesday, January 1, 2002, ~2:40 AM** | Marc covers up Arianna Cummings' fatal accident (see Document 02). The Syndicate learns it can make anything disappear. |
+| **Tuesday, January 1, 2002, ~2:40 AM** | Marc covers up Arianna Cummings' fatal accident (see Document 02). Blackwater and Silas Merriweather are still at peace, so the body goes to a Merriweather crematorium as a favor. **SECRET:** Silas keeps Darnell Divine's wallet as insurance. |
 | **Tuesday, April 16, 2002** | **BSI is founded.** |
 | **2002–2003** | Expansion across the Southeast, then nationally: Atlanta, Miami, Houston, New Orleans, Charlotte, D.C., New York, Chicago, Los Angeles. |
 | **Friday, March 14, 2003** | **The Nassau Accord.** On Alexander's birthday, Sovereign meets through intermediaries with criminal organizations from the Caribbean, London, Lagos, Rotterdam, and Marseille in a Nassau villa. They all agree to Blackwater's terms, rules, and cut. **The Syndicate goes global.** |

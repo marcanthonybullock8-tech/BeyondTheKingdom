@@ -123,7 +123,7 @@
 
 - **2000–2002:** After the dot-com crash, DGH buys distressed technology companies.
 - **After September 11, 2001:** Donohue Aerospace & Defense and Donohue Technologies grow enormously. DGH is also among the **first contract clients of Blackwater Security International** (founded 2002). The board votes 9–1 to hire the Heir Apparent's new company. The one "no" vote comes from a trustee who sits for Theodore's branch of the family.
-- **2003:** DGH's valuation passes **$8 trillion**.
+- **2003:** DGH's valuation passes **$8 trillion**. **March 2003:** Theodore sues to break the Codicil and loses. Simone banishes him from the Summit for two years ("The Exile").
 - **2004:** DGH's valuation reaches **$10 trillion**. The company commits **$25 billion** to rebuilding HBCU campuses nationwide.
 - **December 2004:** **Smilley International announces it will move its world headquarters from Chicago to Atlanta.** Victor reads the news, sets down the paper, and says only: *"Tell my mother."*
 
@@ -139,7 +139,7 @@
 | 1 | Simone Donohue (Founder's Seat, for life) |
 | 2 | Victor Donohue (Chairman) |
 | 3 | Joan Donohue |
-| 4 | Theodore Donohue |
+| 4 | Theodore Donohue (votes by written proxy from Monaco during his 2003–2005 exile) |
 | 5 | Jasmine Donohue Olson |
 | 6 | Natasha Donohue Bullock |
 | 7 | Alvin Donohue |
@@ -173,7 +173,7 @@
 | **Donohue Media** | DBN cable network, film studio (Crest Pictures), 212 radio stations, magazines, record label (Auburn Records) | Franklin Cummings (board); President: Monique Sayles |
 | **Donohue Aerospace & Defense** | Aircraft, avionics, government systems | Gen. (Ret.) Curtis Holloway |
 | **Donohue Shipping & Logistics** | 1,400-ship fleet, ports, freight rail, air cargo | Olufemi Adebayo |
-| **Donohue Realty** | Commercial towers, land, Belmont Crest Holdings | Reginald Donohue (Theodore's son; a contested appointment) |
+| **Donohue Realty** | Commercial towers, land, Belmont Crest Holdings | Reginald Donohue (Theodore's son; a contested appointment; runs it from London during the exile) |
 | **Donohue Foods & Agriculture** | 11 million acres of farmland, beverages, grocery brands | Evelyn Stroud |
 | **Donohue Sports & Entertainment** | Stakes in international football clubs, arenas, the Crest Classic golf tournament | Alvin Donohue (a figurehead title) |
 | **The Donohue Foundation** | Global philanthropy | **Joan Donohue**, Chair |

@@ -44,11 +44,11 @@
 |---|---|---|
 | **1 Sovereign Way** | **Donohue Manor.** A 1960 Georgian Revival, 48,000 sq ft, 30 acres. | Victor & Joan Donohue |
 | **2 Sovereign Way** | **The Dowager House.** A 1958 Creole-style mansion with wraparound galleries, the first house built in Belmont Crest. | Simone Donohue |
-| **3 Sovereign Way** | **Theodore's House ("Ashgrove").** A dark-brick Tudor with a vault underneath. | Theodore & Connie Donohue |
+| **3 Sovereign Way** | **Theodore's House ("Ashgrove").** A dark-brick Tudor with a vault underneath. | Theodore & Connie Donohue. **Shuttered and dark since the 2003 Exile. The lights come back on in Episode #176.** |
 | **9 Sovereign Way** | **The Olson Estate.** Modern limestone, with a surgical suite in the east wing. | Peter, Jasmine, and Mallory Olson (Martin keeps a wing, plus a Midtown loft) |
 | **12 Sovereign Way** | **The Bullock Estate ("Belle Rive").** A Mediterranean palazzo overlooking the river. | Robert & Natasha Bullock, Grace Bullock (who also keeps an L.A. home) |
 | **25 Sovereign Way** | **The Bullock Pavilion.** A glass-and-stone contemporary, built 2003. | Marc-Anthony Bullock |
-| **31 Sovereign Way** | **The Carriage House.** A renovated guest estate. | Alvin Donohue (when he isn't in Miami) |
+| **31 Sovereign Way** | **The Carriage House.** A renovated guest estate. | Alvin Donohue. Empty until his return in Episode #90. |
 | **41 Kingsridge Drive** | **The Cummings Estate** | Franklin & Yvette Cummings, Arianna Cummings |
 | **214 Magnolia Terrace** | **The Baker Home** | Dr. Curtis & Gloria Baker, Kiara Baker. Amond keeps his old room but lives in a Buckhead penthouse. |
 | **7 Chapel Lane** | **The Parsonage** | Bishop Everett & First Lady Pearl Lyons |

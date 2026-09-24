@@ -67,6 +67,13 @@
 - **Respected, powerful, influential, corrupt, and ruthless.** As DA he buried cases for friends, built cases against enemies, and kept files on everyone in Georgia. Those files still exist, in a climate-controlled vault under his house.
 - **The wound:** In 1966 Alexander gave Donohue Hospitality Group to Victor. In 1996 he gave the chairmanship of Donohue Global Holdings to Victor too. Theodore has smiled at every family dinner for 39 years and has forgotten nothing.
 - **Married:** Three times. His current wife is **Constance "Connie" Donohue** (38; see Document 07). His son is **Reginald Donohue** (47; see Document 07).
+- **THE EXILE (2003–2005):**
+  - In **March 2003**, Theodore sued to break the Codicil in Fulton County Superior Court. He lost.
+  - Simone banished her eldest son from the Summit for **two years**.
+  - Theodore, Connie, and Reginald have lived in **Monte Carlo, Monaco** ever since. Reginald runs Donohue Realty from London.
+  - Ashgrove (3 Sovereign Way) sits shuttered and dark.
+  - Theodore votes on the Crown Council **by written proxy only**.
+- **SCREEN RULE:** Theodore and his family **do not appear on screen until Episode #176 (Monday, September 12, 2005)**, the final week of Season 1. They become **Core Contract Cast in Season 2**. Until then, the audience hears only Martin's side of his calls to "overseas."
 - **SECRET:** Theodore is quietly advising Martin Olson on how to take the Heir Apparent designation away from Marc-Anthony. He plans to use Martin to put Theodore's branch of the family back on the throne.
 - **Voice:** Courtroom baritone, Southern gentility, velvet threats. *"I don't hold grudges, nephew. I hold receipts."*
 
@@ -98,6 +105,7 @@
 - **Deeply involved in the underworld:** He owes money and favors to **Silas Merriweather**, Atlanta's old-school kingpin (see Document 07). He launders club cash for people Victor has never heard of.
 - **Sleeps around and never uses protection.** Nobody knows how many children he has, including Alvin.
   - **SECRET (seeded):** **Tremaine Banks** (12), son of **Rochelle Banks** of College Park, is Alvin's son. Rochelle has never asked for a dime. Tremaine has the Donohue eyes. More possible children are held in reserve for future stories.
+- **SCREEN RULE:** Alvin has spent the past year in **Miami** on his yacht "The Alibi," dodging a federal grand jury subpoena and a debt to Silas Merriweather. He is **mentioned but never seen until Episode #90 (Monday, May 9, 2005)**, the halfway point of Season 1, when his helicopter lands on the Summit.
 - **With Marc-Anthony:** Alvin is Marc's favorite uncle and a terrible influence. Marc has quietly cleaned up three of Alvin's messes, and Alvin has no idea who did it.
 - **Voice:** Loud, charming, a little too drunk. *"Mama says I'm the family's black sheep. I said, Mama, I'm the family's* whole *farm."*
 
@@ -120,6 +128,7 @@
 - Son of an auto-plant foreman and a schoolteacher. He earned everything himself: University of Michigan '80, Johns Hopkins MD '84, residency and fellowship at Emory.
 - **Chief of Plastic Surgery, Atlanta Presbyterian Medical Center.** Founder of **Olson Facial & Aesthetic Surgery** in Buckhead. He is dual board-certified in Plastic Surgery and Otolaryngology (ENT).
 - **Respected, powerful, insanely wealthy.** Half the faces in Buckhead society are his work, and he keeps all of their secrets.
+- **SECRET:** In **April 2001**, Peter was paid **$5 million in cash** to rebuild the destroyed face of an anonymous masked patient at a private clinic in Cancún. He asked no questions. The patient was **Vaughn "Silk" Harlow**, who survived the Blackwater Syndicate in 2000 (see Document 06).
 - Loves Jasmine deeply and worships Mallory. Where Martin is concerned he is quietly afraid, because he once saw what Martin did to a dog when Martin was nine.
 - **Voice:** Gentle Midwestern calm. *"I can fix anything but a face that lies."*
 

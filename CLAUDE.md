@@ -21,8 +21,9 @@ These rules are LOCKED. Read `docs/` before writing anything new.
 - 2005 tech only: no Twitter, iPhone, Instagram, or streaming. Facebook is college-only. YouTube launches in 2005.
 
 ## Canon documents (docs/ → pdf/)
-01 Format Bible · 02 Character Bible · 03 Donohue Global Holdings · 04 Belmont Crest · 05 Smilleys & Smilley International · 06 Blackwater Syndicate & BSI · 07 Supporting Cast.
+01 Format Bible · 02 Character Bible · 03 Donohue Global Holdings · 04 Belmont Crest · 05 Smilleys & Smilley International · 06 Blackwater Syndicate & BSI · 07 Supporting Cast · 08 Cast Categories & Episode Counts · 09 World Building · 10 Season 1 Storylines · 11 Season 1 Episode Guide (generated).
 Every birthday lives in `data/birthdays.csv`. For exact ages on any date, run `python3 tools/ages.py YYYY-MM-DD [name]`.
+Doc 11 is generated. Edit `data/season1_synopses.txt` (one line per episode, in order), then run `python3 tools/build_episode_guide.py`.
 After editing docs, run `python3 tools/md2pdf.py docs/*.md && python3 tools/combine_pdfs.py` (requires reportlab and pymupdf).
 
 ## Key canon (summary. The docs win on any conflict.)
@@ -39,3 +40,11 @@ After editing docs, run `python3 tools/md2pdf.py docs/*.md && python3 tools/comb
 - Elxa: APD Chief, sworn in Dec 20, 2004, at 24. The "Nepotism Chief" controversy. She hunts Sovereign.
 - Katrina (Mon Aug 29, 2005, Elxa's 25th birthday) is a planned arc for BSI and Blackwater in Simone's hometown.
 - Master Secrets Ledger: Doc 02 (plus the Smilley ledger in Doc 05).
+
+## Season 1 locks (Docs 08, 10, 11)
+- Season 1 is Eps #0001–#0180, Jan 3 – Sep 16, 2005. There are no new episodes on Jan 20 (Inauguration), May 30, Jul 4, Sep 2 (Katrina coverage), or Sep 5.
+- Sweeps: February sweeps are #23–#42. May sweeps are #83–#102. The 100th episode is Mon May 23 ("Auburn Crown": the first kiss between Marc and Esther).
+- **Alvin first appears in Ep #90 (Mon May 9, 2005).** Before that, he's only mentioned as being in Miami.
+- **Theodore, Reginald (#176), and Connie (#177) appear only in finale week (Eps #176–180).** They become Core Contract Cast in Season 2. Until then the audience hears only Martin's side of his calls.
+- Harlow is alive as "Julian Cross" (introduced #74). Peter rebuilt his face in 2001.
+- Finale #180: Esther's wedding, then gunfire, then "The girls are yours!" Martin knows both Sovereign's identity and the twins' paternity.

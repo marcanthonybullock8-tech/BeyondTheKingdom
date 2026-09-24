@@ -11,13 +11,14 @@
 - **Born:** August 14, 1966 · **Age:** 38 · **Looks:** late 20s
 - Theodore's third wife, married 1998. She was a Delta flight attendant who met Theodore in first class.
 - The family calls her a gold digger. She calls herself "a diversified portfolio."
-- **SECRET:** She secretly writes **"CrestWatch,"** the anonymous gossip blog that has leaked Belmont Crest secrets since 2003. The whole city reads it, and nobody suspects the woman who always seems bored at dinner.
+- **Screen rule:** She has been in Monaco with Theodore since the 2003 Exile. **First appearance: Episode #177.**
+- **SECRET:** From Monte Carlo, fed by an unnamed inside source at the Country Club, she secretly writes **"CrestWatch,"** the anonymous gossip blog that has leaked Belmont Crest secrets since 2003. The whole city reads it, and nobody suspects the woman who always seems bored at dinner.
 - **Voice:** *"Honey, I didn't marry for money. I married for* access. *Money was just parked outside."*
 
 ### Reginald Donohue — The Forgotten Son
 - **Born:** September 9, 1957 · **Age:** 47 · **Looks:** late 30s
 - Theodore's only son, from his first marriage. He was a Georgia State Senator until he resigned in 1999 over a land-deal scandal. Theodore made that scandal go away quietly.
-- Now **President of Donohue Realty.** Victor gave him the job as a peace offering, and Reginald treats it like an insult.
+- Now **President of Donohue Realty.** Victor gave him the job as a peace offering, and Reginald treats it like an insult. He has run it from London since the 2003 Exile. **First appearance: Episode #176.**
 - Divorced, bitter, and drinking. He knows where some of his father's vault files are buried.
 - **Voice:** *"My father was passed over. I was passed under."*
 
@@ -300,6 +301,43 @@
 - **Born:** April 8, 1983 · **Age:** 21
 - Spelman senior and **Executive Assistant to Marc-Anthony.** She's hyper-organized and funny, and she's noticed that her boss's calendar has holes in it.
 - **Voice:** *"Mr. Bullock, you have a 3 o'clock, a 3:15, and a 3:30 that doesn't exist. Should I keep pretending?"*
+
+---
+
+## NEW IN SEASON 1
+
+### Vaughn "Silk" Harlow, alias "Julian Cross" — The Man With a New Face
+- **Born:** February 26, 1969, Memphis · **Age:** 35 · **Looks:** early 30s
+- A former nightclub promoter and the ringleader of the 2000 trafficking ring that drugged Grace Bullock. He is believed dead.
+- **The truth:** He survived "the river." In 2001, Dr. Peter Olson rebuilt his face in Cancún.
+- He returns in April 2005 as **Julian Cross**, a charming "Houston investor." He buys into Alvin's nightclub and blackmails Peter.
+- He wants **revenge on Sovereign**, and he's the one man alive who saw the two young men who rescued Grace.
+- **Voice:** *"I died once. It was educational."*
+
+### Dwayne Pruitt — The Onyx Coin Triggerman
+- **Born:** May 2, 1978 · **Age:** 26
+- Son of disgraced APD Sergeant Dale Pruitt. **Cyrus Knox hires him** to commit the "Onyx Coin" killings that frame Blackwater. He's delivered bound to APD's front steps by Sovereign in Episode #42.
+- **Voice:** *"Man paid cash. Man had an accent. That's all I got."*
+
+### Dale Pruitt — The Crooked Cop
+- **Born:** January 9, 1952 · **Age:** 52
+- The APD sergeant on Harlow's payroll in 2000. He resigned in disgrace, and now he drinks in Forest Park.
+
+### Andre Toussaint — Simone's Great-Nephew
+- **Born:** October 3, 1963, New Orleans · **Age:** 41
+- A Seventh Ward schoolteacher and jazz trumpeter, the grandson of Simone's brother. He refuses to evacuate before Hurricane Katrina.
+
+### Terrence Oakes — The Clean Cop
+- **Born:** September 25, 1971 · **Age:** 33
+- An APD detective and the third Onyx Coin victim (Episode #14). **He survives.** Because he was a clean cop, his shooting breaks Blackwater's Ninth Law and triggers Sovereign's hunt for the copycat.
+
+### Leon Hardaway — The Bought Councilman
+- **Born:** March 19, 1961 · **Age:** 43
+- An Atlanta City Councilman who takes Esther Smilley's bribe and casts the deciding vote on the Auburn Avenue Revival bid.
+
+### † Dr. Miriam Kessler — The Custody Evaluator
+- **Born:** November 2, 1958 · **Age:** 46 · White
+- A court-appointed family evaluator in Gloria Baker's grandparent-visitation case. She's unimpressed by money.
 
 ---
 

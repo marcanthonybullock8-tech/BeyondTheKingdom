@@ -51,7 +51,7 @@ Real daytime soaps work this way. They don't restart at "Episode 1" each season.
 
 **How to reference an episode:** *Season 1 · Episode #0001 · Monday, January 3, 2005*
 
-**Holidays with no new episode in Season 1:** Memorial Day (Mon May 30, 2005), Independence Day (Mon Jul 4, 2005), Labor Day (Mon Sep 5, 2005). Two more Season 1 dates are held for real-world preemptions.
+**Holidays with no new episode in Season 1:** Memorial Day (Mon May 30, 2005), Independence Day (Mon Jul 4, 2005), Labor Day (Mon Sep 5, 2005). The two real-world preemptions are locked: **Thursday, January 20, 2005** (Presidential Inauguration coverage) and **Friday, September 2, 2005** (Hurricane Katrina news coverage).
 
 **Sweeps periods (ratings months — the biggest cliffhangers, weddings, deaths, and reveals land here):**
 - February 2005 sweeps: about Feb 3 – Mar 2, 2005
