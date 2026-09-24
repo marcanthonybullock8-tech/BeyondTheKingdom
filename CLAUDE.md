@@ -76,3 +76,15 @@ After editing docs, run `python3 tools/md2pdf.py docs/*.md && python3 tools/comb
 - Marc told Amond about the gold mask: her laugh and the smell of jasmine, "3 years, 4 months, 2 days."
 - **First Onyx Coin victim:** an unidentified Black man in his early 40s, shot at close range and still wearing a Rolex, found by a dog walker at 9:52 PM by Lake Clara Meer. Hughes leaked the coin to WBKG. Martin toasted the news from his Midtown loft.
 - **The audience learns Marc is Sovereign** at the River Gate boathouse (11:41 PM): "I never gave that order... Wake up the Seven."
+
+## Established in Episode #0002 (Tue Jan 4, 2005)
+- **The Piedmont Park victim is Lamar Whitlock** (b. Aug 12, 1961, d. Jan 3, 2005, aged 43). He was a Merriweather numbers runner, "a deacon" who drove a hearse part-time. His widow is Bernice. On Dec 10, 2004 (the day after the Smilley announcement), he deposited $20K in cash, source unknown.
+- **The counterfeit tell:** real Blackwater coins have **7 crests** on the wave and are hand-cut. The park coin has **6** and is laser-cut from real onyx. The APD lab (Elxa, Jeremy, lab tech) and Ghost both know this. Elxa ordered it kept from the press, the FBI, Hughes, and "especially my family."
+- Silas sent Mama Dee a black-lily wreath reading "SWEET AUBURN TRUCE — REST IN PEACE." Mama Dee reads it as a question: "Did you do this?" Sovereign's orders: Mama Dee takes Silas a sweet-potato pie Wednesday, swears on the Code, and promises proof **by Friday**. Saint keeps the streets cold. Roman finds the shooter ALIVE. Ghost finds the coin maker. Tobias traces the $20K. Silas and Mama Dee have known each other since age 12 (the Royal Peacock).
+- Marc asked Ghost for Warren Hughes's phone records (Celeste let slip that "he" is high up at APD). Martin's one-sided call came at 12:14 AM ("Exactly as you said it would"). **Martin's suspect list circles ROBERT BULLOCK**, and he planted that suspicion with Natasha. Natasha asked Robert, who said, "I don't ask what they do at night."
+- **Camille Rhodes is introduced**: senior partner and Robert's mistress (they've been involved since 1999). She wears Smile. Otis asked whether Bullock & Associates represents Blackwater. Nana Ruby noticed Robert's changed shirt.
+- Joan asked Victor whether he called the mayor. He deflected: "Trust me on purpose." Winston: "The coffee's fresh, ma'am."
+- Gloria will withdraw her petition in exchange for **one Sunday a month**, and Amond must ask Harmony himself. Gloria has held Lyric 11 times. Lyric likes greens. Amond still has the Tiffany gift Harmony didn't take.
+- Esther kept Simone's invitation in her desk drawer (handwritten: "Welcome, neighbor. — S. T. D."). Odessa said "Wear red." Celeste is also wearing red. Esther saw Lucius's tremor. Yvette told Peter that Arianna hasn't cried since New Year's 2002.
+- Simone's "other pearls" are black Tahitian pearls Alexander bought in Papeete in 1952. She has worn them three times: the night of the cross, the Nixon dinner, and Alexander's funeral. She calls Marc at midnight every birthday.
+- The birthday ice sculpture is a crowned swan ("a duck that won the lottery").
