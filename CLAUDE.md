@@ -122,3 +122,53 @@ After editing docs, run `python3 tools/md2pdf.py docs/*.md && python3 tools/comb
 - **Celeste counted cases at the courthouse:** Bullock & Associates represented 3 of 7 Harlow defendants (2000), 11 of 19 check-cashing gambling cases (2001–04), and 4 plaintiffs in the insurance suits after the 2004 fires. Martin: "You run it when you have one more number." Natasha asked Robert where the first shirt went ("dry cleaner on Peachtree Battle," which closes at 6) and closed the dressing-room door "politely."
 - Quentin DJ'd his first set at Velvet ("Alvin Donohue's, unofficially"). Harmony's broker Donna Keel gave her until the end of February to close a sale. Mallory learned someone called the Kumasi shea co-op hours before she did, asking about "Toussaint shea."
 - **Cliffhanger:** Arianna read Harmony's LJ thank-you, ran out barefoot, and called Marc from **the curve by the guardrail on Northside Drive**, her hand on the door handle: "He was just walking home."
+
+## Established in Episode #0006 (Mon Jan 10, 2005; teaser Fri Jan 7, funeral Sat Jan 8)
+- Marc held Arianna at the Northside guardrail (added spring 2002): "I will handle this. I've always handled this." Saint retrieved the Aston at 1:20 AM; the gatehouse sends Simone a daily list (since 1958).
+- **Lamar's funeral:** 20 Merriweather men and 20 Blackwater men lined the steps. Silas arrived with Mama Dee on his crooked-fingered arm. Saint paid Bernice's mortgage through 2005 and the funeral. Doyle and Reyes photographed it; Doyle noted "DEE'S KITCHEN — WHITFIELD." **Teddy Merriweather** (26, Silas's sister's son) is the hothead.
+- Robert retrieved the unwashed shirt from **Camille's Park Place condo** (34th floor) Saturday; she left the Smile on it deliberately. Nana Ruby found it Monday; **Natasha keeps it in a locked Hermès box** in her study desk. Natasha visited Camille with Henri's cheese straws; the card read "Enjoy them. You've already had everything else of his."
+- **Carla Mims introduced** (GBI 22 yrs; thermos; beaded-chain glasses; pins the victim's photo on the wall, including one in Arianna's office). Dee left **Lamont Grier's** party (3100 block). Arianna signed the letter seeking guest lists for all Northside parties between West Paces and Moores Mill. Divine family interview set for Friday 4 PM.
+- Egleston: "The Dinosaur Princess" (Marc wrote it). Doyle served Magistrate Carver's order; someone faxed Elxa's command-staff report to the FBI from a **Kinko's on Ponce**. The canary meeting moved to Thursday.
+- **Harmony slapped Amond** at Phipps ("You think money fixes everything?"). Marc told Amond not to put BSI on Dee's case; Amond knows Marc's car was on Northside Friday night ("Not as brothers").
+- Tobias: $60K cash left Chatham on Dec 9 from **Harbour Point Logistics** (Garden City customs broker, Donohue Shipping subsidiary since 1998; founder Gerald Pettaway, in a nursing home) via a "bearer" designation letter. Victor summoned Donohue Shipping's GC. Natasha ordered **Nathaniel Greer** (Director of Global Security, Donohue Hotels & Resorts) to track Robert's and Camille's reservations.
+- Lucius (Parkinson's since 2003, per Doc 05) had his Emory follow-up set with his Chicago neurologist, Dr. Harrington. Vivienne learned of the "Toussaint shea" calls.
+
+## Established in Episode #0007 (Tue Jan 11, 2005)
+- **Family council vote (Class A):** Harmony named exclusive buyer's rep for the $2B Atlanta program, 1.5% ($30M gross; Keel takes half). Yes: Lucius (raised **left** hand), Vivienne, Esther = 50; No: Luke, Delphine = 12; Desmond abstained; Odessa's 20 made it **70**. Luke: "Over my dead body." Lucius: "Then we'll miss you." Quentin absent. Ashe Capital is down 31% since June.
+- Esther to Harmony: "You're the only person in Atlanta who's never lied to me." Harmony kept her cubicle by the restroom. Marc learned (on speaker) that **Esther is Harmony's best friend**.
+- **Victor learned "Office of the Chairman" letterhead and his stamp were used** in October to request the Harbour Point file (courier log 10/14/04, signed **"M."**) and on the Oct 15 bearer letter to Chatham. Marc has a copy of the bearer letter.
+- Delphine traced the Kumasi calls to the **Olson Estate** line; Vivienne wants to own Grace & Glory's suppliers before launch. Mallory locked the Formulary in her wall safe after Martin offered to "keep it safe."
+- Hughes needled Elxa about the library exile; she named the Peachtree Strangler. Harold on Hughes: "Hurt men leak… take his badge in a room with the door closed."
+- Odessa learned Marc is Lyric's godfather; Victoria cried "FUNNY MAN!" in front of her. Amond sent white peonies ("Proud of you. — A.").
+- Greer: Camille used Donohue hotels (Thursdays, cash) only until **Feb 2000**, then stopped. Esther's note to Simone: "It wasn't a lack of respect. It was the opposite."
+- Carla found Bernadette's Jan 3, 2002 column: Arianna, 19, in silver at the **Hendersons' (3244 Northside)**, "the designated driver." She circled it.
+
+## Established in Episode #0008 (Wed Jan 12, 2005 — Mama Dee's 54th)
+- Birthday flowers: yellow roses in green ink ("A friend") and white calla lilies delivered by Otis in the **hearse** ("No black lilies. — S.M."). The Seven threw her a party: a Hobart dishwasher and a restored 1970 wedding photo (her photos were lost in a 1974 house fire).
+- Simone keeps Esther's note on top of the **Savannah Letter** (Savannah postmark, March 1952) in her rosewood secretary.
+- Yvette confronted Arianna about the "flu" and the missing car. Esther and Harmony walked the 400 block of Auburn; Esther saw Marc's Aston in the hotel alley and fled. **Alexander's 1951–53 ledger has pages for Mar 4–18, 1952 razor-cut.**
+- Elxa answered Hughes at the Council budget hearing ($118K/month, from ending the Governor's Mansion detail). Lucius's Parkinson's is progressing (levodopa increased; ~18 months before it's hard to hide).
+- Silas's man found Teddy lunched Monday at the Cleveland Ave Waffle House with a tall man "like Australian, but not." Peter is getting calls from **+52 998 (Clínica Esperanza, Cancún)**: someone asked about his 2001 patient.
+- **Martin and Desmond met at the Ritz-Carlton Buckhead bar.** Martin gave Desmond Harrington's visit as a free "gift." Desmond: no Zurich clinic did Esther's IVF; no photos of her the first week of Sept 2001; two visits to one gate. Martin: "Tell me about the twins." Crowe's man photographed them.
+- Victor narrowed "M." to **Marc or Martin**. Mallory met **Q** on Velvet's roof; he wrote a 312 number on her palm.
+
+## Established in Episode #0009 (Thu Jan 13, 2005)
+- Mallory got home at 3:07 AM; Peter waited on the stairs. Simone served Victor a "7" cake.
+- **Canary trap:** five folders, different page sixes. **Hughes leaked "fake coin" to WBKG at 9:52 AM** (ran 10:04). Elxa kept him and made him **FBI liaison to Deep Water** ("everybody gets one mistake… you've had yours"), honoring Harold's "closed door."
+- Martin to his operator: "Then we give them something they can't call fake… Not a deacon this time."
+- Harmony was served at her desk: **hearing Mon March 14, 2005, 9 AM; evaluation by Dr. Miriam Kessler.** Gloria's hearing request dated from Jan 6; she won't withdraw but wrote an apology. Esther: "Let a judge say it," and gave Harmony her lawyer, Mr. Kincaid. Amond brought "Other Raffe" and promised never to testify against her.
+- **Carla's four questions:** Arianna said she saw **no one walking** (the lie). She said she drove a Volvo. Carla requested the Volvo's DMV title history (about two weeks).
+- Esther has Crowe's photos of Desmond with **Martin Olson**. Quentin told Desmond his car was seen at the Ritz. Greer: Camille's Jaguar XJ8 is in the **Colony Square garage** every Thursday 8 PM–6 AM (hotel not yet identified; Ep 32). Robert arrives separately in a rental.
+- The Waffle House tape shows the tall man only from behind. Roman was sent to Savannah. Silas: the man rented from Hertz with a **New Zealand license**.
+- Cliff: Arianna told Marc she lied; Marc: "Tell me everything about Carla Mims."
+
+## Established in Episode #0010 (Fri Jan 14, 2005)
+- **Kruger Precision Stoneworks, Johannesburg, order KPS-2004-1187:** 2,000 six-crest discs for **Harbour Light Holdings (Pty) Ltd, Cape Town**, "Do NOT correct to seven," shipped Oct 22, 2004 Durban→Savannah on the Donohue Shipping vessel **MV Sovereign Dawn**; docked Nov 9, cleared Nov 11, consigned to Harbour Point. How Ghost got it is never shown. "He's planning a war."
+- **The customs attorney of record is Bullock & Associates** (routine: B&A has filed every Donohue Shipping entry since 1991 via paralegal Doris in Savannah). Marc had Robert quietly pull the Harbour Point filings.
+- **Chatham microfiche:** the Dec 9 withdrawal was by **"Cameron James Kerr," New Zealand license, b. 1968** (an alias). Mama Dee gave Silas the name; the truce holds "as long as he wants it to," and "we share." The tall man calls Teddy on **Monday**; Teddy will tell Silas.
+- FBI lab: fake stone is from the **Northern Cape, South Africa**, machine-cut; real coins are hand-cut Brazilian onyx. Hughes carried it straight to Elxa. Condo lobby tape: the tall man passed toward the park at **6:48 PM Jan 3**. **Elxa and Doyle's truce** at Manuel's Tavern ("Military").
+- Martin told Victor he requested the Harbour Point file for a Q4 portfolio review and put it on Victor's letterhead via Mrs. Ames; he denies the bank letter. Marc slipped and mentioned "the bank letter" to Victor, who "decided not to ask."
+- Smilley holds an option on **441 and 443 Auburn Ave** (Leroy Reese: "Auburn Avenue remembers who tipped"). Lucius blessed the Auburn push; Esther hid Desmond's meeting from him.
+- Carla learned **Dee always walked south on Northside to the Texaco at West Paces** to call Calvin ("only road down") and took Dee's pager. **Marc refused Ghost's idea to plant a false witness: "Then we let her look."**
+- Peter told Jasmine he operated in Cancún for nine days in summer 2001 on a cash patient he won't name. Robert brought Natasha Henri's cheese straws (he knows). Q played "Lovin' You" from a car outside the Olson gate; Mallory is grounded two weeks.
+- **CYRUS KNOX introduced** (first appearance): on a Midtown garage roof at 11:48 PM, Martin slid him a thick envelope: "Again. Bigger." Knox: "Someone they can't ignore." Martin: "Someone they can't call a criminal." "Cameron Kerr" has left the country. Sets up Ep 14 (Det. Terrence Oakes).
