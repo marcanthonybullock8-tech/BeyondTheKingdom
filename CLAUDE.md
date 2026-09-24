@@ -21,14 +21,14 @@ These rules are LOCKED. Read `docs/` before writing anything new.
 - 2005 tech only: no Twitter, iPhone, Instagram, or streaming. Facebook is college-only. YouTube launches in 2005.
 
 ## Canon documents (docs/ → pdf/)
-01 Format Bible · 02 Character Bible · 03 Donohue Global Holdings · 04 Belmont Crest · 05 Smilleys & Smilley International · 06 Blackwater Syndicate & BSI · 07 Supporting Cast · 08 Cast Categories & Episode Counts · 09 World Building · 10 Season 1 Storylines · 11 Season 1 Episode Guide (generated).
+01 Format Bible · 02 Character Bible · 03 Donohue Global Holdings · 04 Belmont Crest · 05 Smilleys & Smilley International · 06 Blackwater Syndicate & BSI · 07 Supporting Cast · 08 Cast Categories & Episode Counts · 09 World Building · 10 Season 1 Storylines · 11 Season 1 Episode Guide (generated) · 12 Opening Title Sequence.
 Every birthday lives in `data/birthdays.csv`. For exact ages on any date, run `python3 tools/ages.py YYYY-MM-DD [name]`.
 Doc 11 is generated. Edit `data/season1_synopses.txt` (one line per episode, in order), then run `python3 tools/build_episode_guide.py`.
 After editing docs, run `python3 tools/md2pdf.py docs/*.md && python3 tools/combine_pdfs.py` (requires reportlab and pymupdf).
 
 ## Key canon (summary. The docs win on any conflict.)
 - Belmont Crest: One Belmont Crest Parkway NW, Atlanta, GA 30327 (NW Buckhead, off West Paces Ferry Rd, on the Chattahoochee bluffs). Founded 1958. 1,140 acres. The Donohue compound is on Sovereign Way.
-- Donohue Global Holdings: $10T valuation. Family fortune over $2.5T. Alexander (1905–1999, died 11:58 PM Dec 31, 1999). Simone (b. Nov 2, 1910) is alive. Victor has been Chairman & CEO since 1996. Natasha has been CEO of DHG since 1996.
+- Donohue Global Holdings: $10T valuation. Family fortune over $2.5T. Alexander (1905–1999, died 11:58 PM Dec 31, 1999). Simone (b. Nov 2, 1910) is alive. DGH was formed Jan 3, 1966. Victor was DGH CEO from 1966 to 1996 and has been Chairman since 1996. Natasha has been **DGH CEO** since 1996. **There is NO "Donohue Hospitality Group."** The hotels are a DGH division, Donohue Hotels & Resorts.
 - Victor & Joan married June 20, 1959. (The user's brief also said 1969. 1959 was chosen because Jasmine was born in 1960.)
 - The Crown Trust / 1996 Codicil: Marc-Anthony is Heir Apparent. Vice Chair-designate at 25 (Jan 5, 2007). The Disgrace Clause is Martin's weapon. The "Line of Issue" clause makes the twins Donohue heirs.
 - Smilleys (Chicago → Atlanta, Jan 2005): Odessa, Lucius, Vivienne, Desmond, Luke, Delphine, Esther, Quentin. Smilley Tower is at 3434 Peachtree Rd NE. Their estate, Ravenhurst, borders Belmont Crest.
@@ -40,6 +40,10 @@ After editing docs, run `python3 tools/md2pdf.py docs/*.md && python3 tools/comb
 - Elxa: APD Chief, sworn in Dec 20, 2004, at 24. The "Nepotism Chief" controversy. She hunts Sovereign.
 - Katrina (Mon Aug 29, 2005, Elxa's 25th birthday) is a planned arc for BSI and Blackwater in Simone's hometown.
 - Master Secrets Ledger: Doc 02 (plus the Smilley ledger in Doc 05).
+
+## Opening titles (Doc 12)
+- There are 23 standard "Hall of Portraits" credits for the adult Contract and Featured cast. Sebastian joins at #46 and Julian Cross at #74 (credited under the alias all season).
+- Unique signature sequences go to **Victor, Joan, Natasha, and Jasmine**, plus **Alvin from #90**. The order is Alvin, Jasmine, Natasha, Joan, then Victor last. Children appear in the closing credits.
 
 ## Season 1 locks (Docs 08, 10, 11)
 - Season 1 is Eps #0001–#0180, Jan 3 – Sep 16, 2005. There are no new episodes on Jan 20 (Inauguration), May 30, Jul 4, Sep 2 (Katrina coverage), or Sep 5.

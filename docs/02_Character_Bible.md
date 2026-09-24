@@ -65,7 +65,7 @@
 - **Born:** July 31, 1934 · **Age:** 70 · **Looks:** late 50s
 - Eldest son of Alexander and Simone. Howard University School of Law. Fulton County District Attorney 1971–1987, then senior counsel to Donohue Global Holdings until he retired in 1999.
 - **Respected, powerful, influential, corrupt, and ruthless.** As DA he buried cases for friends, built cases against enemies, and kept files on everyone in Georgia. Those files still exist, in a climate-controlled vault under his house.
-- **The wound:** In 1966 Alexander gave Donohue Hospitality Group to Victor. In 1996 he gave the chairmanship of Donohue Global Holdings to Victor too. Theodore has smiled at every family dinner for 39 years and has forgotten nothing.
+- **The wound:** In 1966 Alexander made Victor, the younger son, CEO of the newly formed Donohue Global Holdings. In 1996 he gave Victor the chairmanship too. Theodore has smiled at every family dinner for 39 years and has forgotten nothing.
 - **Married:** Three times. His current wife is **Constance "Connie" Donohue** (38; see Document 07). His son is **Reginald Donohue** (47; see Document 07).
 - **THE EXILE (2003–2005):**
   - In **March 2003**, Theodore sued to break the Codicil in Fulton County Superior Court. He lost.
@@ -80,8 +80,8 @@
 ### Victor Donohue — The King
 - **Born:** May 30, 1936 · **Age:** 68 · **Looks:** mid-50s
 - Youngest son of Alexander and Simone. Morehouse College '57, Harvard Business School '59.
-- **Chairman & CEO, Donohue Hospitality Group (1966–1996).** He turned his father's Auburn Avenue hotel into the world's largest luxury hospitality empire.
-- **Chairman & CEO, Donohue Global Holdings (1996–present).**
+- **Former CEO, Donohue Global Holdings (1966–1996).** In 30 years he turned his father's Auburn Avenue businesses into the largest company in the world.
+- **Chairman, Donohue Global Holdings (1996–present).**
 - **Respected, powerful, influential, ruthless, dangerous, and astronomically wealthy.** He negotiates by staying silent. Senators take his calls on the first ring, and his enemies sometimes hear from him only after their companies are gone.
 - **Married:** Joan Mercer on **Saturday, June 20, 1959**, in the first wedding ever held at Belmont Crest Chapel.
 - **Children:** Jasmine (1960), Natasha (1961), Alvin (1970).
@@ -169,10 +169,10 @@
 - **SECRET:** In late 2004, Robert and Victor privately leaned on the mayor to make Elxa Chief of Police. **Elxa doesn't know.**
 - **Voice:** Silk and gravel. *"Innocent? Son, innocent is a price point."*
 
-### Natasha Donohue Bullock — The Queen of Hospitality
+### Natasha Donohue Bullock — The Empress
 - **Born:** June 2, 1961 · **Age:** 43 · **Looks:** early 30s
 - Middle child of Victor and Joan. Spelman '82, Wharton MBA '85.
-- **CEO, Donohue Hospitality Group (1996–present).** She runs more than 3,100 hotels, resorts, casinos, cruise properties, and private clubs across 140 countries.
+- **CEO, Donohue Global Holdings (1996–present).** She runs the world's largest, most valuable company, a $10 trillion empire, day to day. Her personal passion is still the family's original business, the 3,100+ hotels of Donohue Hotels & Resorts.
 - **Respected, powerful, influential, ruthless, dangerous, insanely wealthy.**
 - **She likes to bend the rules, and her son gets it from her.** She has bribed a Monaco zoning board, blackmailed a Las Vegas regulator, and once bought a Caribbean island to win an argument.
 - **With Marc-Anthony:** He's her heart and her co-conspirator. She suspects he has secrets and has decided never to ask. "A mother knows when not to know."

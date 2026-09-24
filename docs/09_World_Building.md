@@ -214,15 +214,15 @@
 | Jun 20, 1959 | Victor marries Joan |
 | Oct 24, 1959 | The cross burning at the Crown Gate. "We stayed." |
 | Apr 15, 1961 | The Belmont Crest Country Club opens |
-| Jan 3, 1966 | Donohue Hospitality Group is formed, with Victor as CEO |
-| Mar 1, 1971 | **Donohue Global Holdings** and the Crown Trust are formed |
+| Jan 3, 1966 | **Donohue Global Holdings is formed.** Alexander is Chairman and Victor is CEO. |
+| Mar 1, 1971 | The Crown Trust is formed |
 | 1979 | Joan is appointed a federal judge |
 | 1985 | Bullock & Associates is founded |
 | Feb 19, 1987 | Cornelius dies. Lucius becomes Smilley CEO. |
 | Jan 1987 | Jasmine takes her seat in Congress |
 | 1989 | Smilley International is named |
 | 1992 | Donohue Tower opens |
-| Jun 3, 1996 | Victor becomes DGH Chairman. Natasha becomes DHG CEO. |
+| Jun 3, 1996 | Victor becomes DGH Chairman. Natasha becomes DGH CEO. |
 | Jul–Aug 1996 | The Atlanta Olympics |
 | Oct 13, 1996 | **The Codicil:** Marc (14) is named Heir Apparent |
 | Dec 31, 1999 | Alexander dies at 11:58 PM |

@@ -57,14 +57,23 @@ def build(md_path, out_dir):
                 i += 1
             flow.append(Preformatted("\n".join(block), S["code"]))
         elif s.startswith("|"):
-            rows = []
+            raw = []
             while i < len(lines) and lines[i].strip().startswith("|"):
                 cells = [c.strip() for c in lines[i].strip().strip("|").split("|")]
                 if not all(re.fullmatch(r":?-+:?", c) for c in cells):
-                    rows.append([Paragraph(inline(c), S["cell"]) for c in cells])
+                    raw.append(cells)
                 i += 1
+            ncol = len(raw[0])
+            # Width follows content: longest cell per column, clamped.
+            def need(c):
+                cells = [re.sub(r"[*`]", "", r[c]) for r in raw if c < len(r)]
+                longest_word = max((len(w) for x in cells for w in x.split()), default=4)
+                return min(max(max(len(x) for x in cells), longest_word + 3, 7), 60)
+            weights = [need(c) for c in range(ncol)]
+            total = sum(weights)
+            rows = [[Paragraph(inline(c), S["cell"]) for c in r] for r in raw]
             t = Table(rows, repeatRows=1, hAlign="LEFT",
-                      colWidths=[6.8 * inch / len(rows[0])] * len(rows[0]))
+                      colWidths=[6.8 * inch * w / total for w in weights])
             t.setStyle(TableStyle([
                 ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#E9E1F2")),
                 ("GRID", (0, 0), (-1, -1), 0.4, colors.HexColor("#999999")),

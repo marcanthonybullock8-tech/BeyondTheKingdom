@@ -170,7 +170,7 @@
 - **Beats:**
   - The Smile perfume (#6)
   - Natasha buys the hotel where they meet (#32)
-  - Natasha hires Camille as DHG's General Counsel at triple salary (#65)
+  - Natasha hires Camille as DGH's General Counsel at triple salary (#65)
   - The Bullocks reunite as partners in crime (#107)
   - Camille wears the wire (#114) and catches "Sovereign's people pay" (#146)
   - She's discovered: "I'm pregnant. It's his." (#147)

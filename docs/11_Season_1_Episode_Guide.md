@@ -179,9 +179,9 @@ Every episode's in-universe story day matches its airdate unless the synopsis sa
 
 ### Week of April 4
 
-- **#0065 · Mon., Apr. 4** — Natasha confronts Robert about Camille in the lobby of the hotel she bought. Then she hires Camille as General Counsel of Donohue Hospitality Group at triple salary, stealing Robert's best lawyer and keeping her enemy close.
+- **#0065 · Mon., Apr. 4** — Natasha confronts Robert about Camille in the lobby of the hotel she bought. Then she hires Camille as General Counsel of Donohue Global Holdings at triple salary, stealing Robert's best lawyer and keeping her enemy close.
 
-- **#0066 · Tue., Apr. 5** — Robert is stunned. Doyle smells an opportunity: an informant who could reach both DHG and Robert's bed. Amond notices that BSI's search for Dee has mysteriously stalled.
+- **#0066 · Tue., Apr. 5** — Robert is stunned. Doyle smells an opportunity: an informant who could reach both DGH and Robert's bed. Amond notices that BSI's search for Dee has mysteriously stalled.
 
 - **#0067 · Wed., Apr. 6** — Esther invites Arianna to lunch and, all smiles, mentions Northside Drive. Arianna walks out and throws up in the alley.
 
@@ -307,7 +307,7 @@ Every episode's in-universe story day matches its airdate unless the synopsis sa
 
 ### Week of June 13
 
-- **#0114 · Mon., Jun. 13** — Cornered by Doyle, Camille agrees to wear a wire inside DHG. On her first day she records Natasha arranging a "consulting fee" for a Monaco zoning board.
+- **#0114 · Mon., Jun. 13** — Cornered by Doyle, Camille agrees to wear a wire inside DGH. On her first day she records Natasha arranging a "consulting fee" for a Monaco zoning board.
 
 - **#0115 · Tue., Jun. 14** — Harlow takes Alvin on a lavish bender. Drunk, Alvin tells family stories, including Grace's "bad night" in 2000.
 

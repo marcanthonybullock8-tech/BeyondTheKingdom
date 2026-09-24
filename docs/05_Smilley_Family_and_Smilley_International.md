@@ -170,7 +170,7 @@ They are the **second-wealthiest family in the world** and the Donohues' **fierc
 
 1. **Every Donohue opening gets a Smilley counter-opening,** usually within the same month.
 2. **Neither family has attended the other's funeral since 1952.**
-3. Hospitality is the main battlefield: Donohue Hospitality Group vs. Smilley Hotels & Resorts. Natasha vs. Luke. Natasha vs. Esther.
+3. Hospitality is the main battlefield: Donohue Hotels & Resorts (a DGH division) vs. Smilley Hotels & Resorts. Natasha vs. Luke. Natasha vs. Esther.
 4. **2005 battlegrounds:**
    - The **Atlanta skyline** (the rival towers)
    - The **Belmont Crest Country Club** (Noelle wants in)

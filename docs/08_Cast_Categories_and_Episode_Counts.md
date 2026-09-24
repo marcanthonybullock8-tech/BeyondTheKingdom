@@ -23,7 +23,8 @@
 - **Theodore, Connie, and Reginald Donohue** first appear in **Episodes #176–180 (September 12–16, 2005)**, the final week of Season 1. They are **promoted to Core Contract Cast for Season 2.**
   - Before that, Theodore exists only as a written proxy vote (Episode #90) and as the unheard person on the other end of Martin's one-sided calls.
   - Neither counts as an appearance.
-- **Child performers** (Emma, Victoria, Lyric) have contracts, but their counts are limited by child-labor hour rules.
+- **Child performers** (Emma, Victoria, Lyric) have contracts, but their counts are limited by child-labor hour rules. They are billed in the **closing** credits.
+- **Opening titles:** See Document 12. Victor, Joan, Natasha, and Jasmine (and Alvin from #90) get **unique signature sequences**. Every other adult contract player shares the standard "Hall of Portraits" format.
 
 ---
 
@@ -34,7 +35,7 @@
 | 1 | **Marc-Anthony Bullock** | Heir Apparent / "Sovereign" | **158** | The show's center |
 | 2 | **Esther Smilley** | Smilley heiress | **132** | Female lead |
 | 3 | **Amond Baker** | Marc's Right Hand | **124** | |
-| 4 | **Natasha Donohue Bullock** | CEO, DHG | **118** | |
+| 4 | **Natasha Donohue Bullock** | CEO, Donohue Global Holdings | **118** | |
 | 5 | **Harmony Divine** | Esther's best friend / agent | **118** | |
 | 6 | **Martin Olson** | The Rival | **114** | Lead villain |
 | 7 | **Elxa Bullock Jackson** | APD Chief | **112** | |
@@ -77,7 +78,7 @@
 | Character | Role | S1 Episodes |
 |---|---|---|
 | SA Kathleen "Kate" Doyle † | FBI, Operation Deep Water | 46 |
-| Camille Rhodes | Robert's mistress / DHG General Counsel | 44 |
+| Camille Rhodes | Robert's mistress / DGH General Counsel | 44 |
 | Brielle Sutton | Marc's executive assistant | 42 |
 | Danny Reyes † | FBI partner | 40 |
 | Noelle Smilley | Luke's wife | 40 |

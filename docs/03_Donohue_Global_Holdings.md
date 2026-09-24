@@ -11,10 +11,11 @@
 |---|---|
 | Legal name | Donohue Global Holdings, Ltd. ("DGH") |
 | Type | Privately held multinational holding company / global conglomerate |
-| Founded | Donohue Enterprises, Inc. incorporated Monday, November 2, 1931. The DGH holding company was formed Monday, March 1, 1971. |
+| Founded | Donohue Enterprises, Inc. incorporated Monday, November 2, 1931. **Donohue Global Holdings was formed Monday, January 3, 1966.** The Crown Trust was created Monday, March 1, 1971. |
 | Founder | Alexander Josiah Donohue (1905–1999) |
 | Headquarters | **Donohue Tower**, 1 Donohue Plaza, 3200 Peachtree Road NE, Buckhead, Atlanta, Georgia 30305. 88 stories, completed 1992. |
-| Chairman & CEO | Victor Donohue (since 1996) |
+| Chairman | **Victor Donohue** (Chairman 1996–present; CEO 1966–1996) |
+| Chief Executive Officer | **Natasha Donohue Bullock** (1996–present) |
 | Heir Apparent | Marc-Anthony Bullock (named 1996) |
 | Valuation | **$10 trillion.** The largest, most valuable company in the world. |
 | Family fortune | **More than $2.5 trillion.** The wealthiest family in the world. |
@@ -82,15 +83,15 @@
   - Alexander never allows his name on a donor list. *"The Klan can read."*
   - Joan Mercer Donohue, not yet a lawyer, types movement legal briefs through the night while pregnant with Natasha (born June 2, 1961). She graduates from Howard Law in 1964.
 - **1964 — Civil Rights Act:** Legal segregation ends. Alexander's advisers expect the Green Book hotels to die as Black travelers go to the white chains. **Alexander bets the opposite:** that Black travelers will want **luxury**, not just permission.
-- **Monday, January 3, 1966 — Donohue Hospitality Group (DHG) is formed.** **Victor Donohue, 29, is named Chairman & CEO.** Theodore, 31, is not. The brothers' cold war begins.
+- **Monday, January 3, 1966 — Donohue Global Holdings, Ltd. (DGH) is formed** as the parent company over Donohue Enterprises and every family business. **Alexander, 60, becomes Chairman. Victor Donohue, 29, is named Chief Executive Officer.** Theodore, 31, is passed over. The brothers' cold war begins.
 - **Saturday, April 13, 1968:** **The Donohue Atlanta** opens on Peachtree Street: 52 stories and 1,100 rooms, the most luxurious hotel in the South. The opening is held in quiet mourning nine days after Dr. King's assassination. Victor dedicates the lobby's eternal flame to him.
-- **1969–1970:** DHG opens The Donohue in New York (Fifth Avenue), Washington, D.C., and Nassau.
+- **1969–1970:** DGH's hotel division, **Donohue Hotels & Resorts**, opens The Donohue in New York (Fifth Avenue), Washington, D.C., and Nassau.
 
 ---
 
 ## Part Five — Going Global (1971–1989)
 
-- **Monday, March 1, 1971 — Donohue Global Holdings, Ltd. is formed** as the parent holding company over every family business. The Crown Trust is created the same day to hold 100% of the voting shares forever.
+- **Monday, March 1, 1971 — The Crown Trust is created** to hold 100% of DGH's voting shares forever. Under CEO Victor, DGH officially goes global.
 - **1971:** Theodore becomes Fulton County District Attorney. Alexander calls it "a consolation prize with a badge."
 - **1973 — The Oil Crisis:** DGH buys oil and gas stakes in Texas, the North Sea, and Nigeria. **Donohue Energy** is born.
 - **1975–1979:** Hotels open in London (Park Lane), Paris, Lagos, Accra, Nairobi, Rio, and Tokyo. Victor refuses every offer to build in apartheid South Africa: *"We'll open in Johannesburg the day Mandela checks in."* (The Donohue Johannesburg opens in 1995, and Mandela attends.)
@@ -110,8 +111,8 @@
 - **1992:** **Donohue Tower** opens in Buckhead: 88 stories, the tallest building in the Southeast.
 - **1990s:** DGH expands into pharmaceuticals, biotechnology, telecommunications, satellites, commercial real estate, agriculture, food and beverage, sports, and private equity.
 - **1996 — The Year of Succession:**
-  - **Monday, June 3, 1996:** Alexander, 91, steps down. **Victor becomes Chairman & CEO of DGH.** **Natasha, 35, becomes CEO of Donohue Hospitality Group.**
-  - **July–August 1996:** The **Centennial Olympic Games** come to Atlanta. DGH is a founding patron, and DHG hosts 60 national delegations.
+  - **Monday, June 3, 1996:** Alexander, 91, steps down as Chairman. **Victor, after 30 years as CEO, becomes Chairman of DGH.** **Natasha, 35, becomes Chief Executive Officer of Donohue Global Holdings**, the first woman to run the world's largest company.
+  - **July–August 1996:** The **Centennial Olympic Games** come to Atlanta. DGH is a founding patron, and Donohue Hotels & Resorts hosts 60 national delegations. It's Natasha's first global triumph as CEO.
   - **Sunday, October 13, 1996 — The Codicil:** At Sunday dinner at Donohue Manor, the family attorney reads **Alexander's Codicil to the Crown Trust** aloud. It names **Marc-Anthony Bullock, age 14,** as **Heir Apparent**. Alexander has watched the boy for years: his genius, his heart, and the fact that he once organized a strike by the Manor's household staff for better pay and won.
   - The room goes silent. Martin Olson, 15, walks out. Theodore stays and smiles.
 - **Friday, December 31, 1999, 11:58 PM:** **Alexander Josiah Donohue dies** at Donohue Manor, aged 94, holding Simone's hand. Marc-Anthony, 17, is at his bedside. Alexander's last words are to him: ***"Don't let them make you small."***
@@ -164,8 +165,10 @@
 
 | Division | Business | 2005 Chief Executive |
 |---|---|---|
-| **Donohue Enterprises, Inc.** | Operating and management company for the whole empire | Victor Donohue |
-| **Donohue Hospitality Group** | 3,100+ hotels, resorts, casinos, cruise lines, private clubs in 140 countries. Brands include The Donohue, Crest Resorts & Spas, Auburn House, Toussaint Retreats, and Sovereign Casinos. | **Natasha Donohue Bullock** |
+| **DGH Office of the Chairman** | Board, Crown Council liaison, long-term strategy | **Victor Donohue**, Chairman |
+| **DGH Office of the CEO** | Runs the entire empire day to day | **Natasha Donohue Bullock**, CEO |
+| **Donohue Enterprises, Inc.** | Operating and management company for the whole empire. It reports to the CEO. | Natasha Donohue Bullock |
+| **Donohue Hotels & Resorts** | 3,100+ hotels, resorts, casinos, cruise lines, private clubs in 140 countries. Brands include The Donohue, Crest Resorts & Spas, Auburn House, Toussaint Retreats, and Sovereign Casinos. The family's original business and Natasha's personal passion. | President: Nathaniel Greer (reports to Natasha) |
 | **Donohue Financial** | Donohue Bank & Trust, Donohue Capital (private equity), Donohue Mutual Life, asset management | Harrison Lyle III |
 | **Donohue Energy** | Oil and gas, pipelines, utilities, early solar and wind | Dr. Adaeze Nwachukwu |
 | **Donohue Pharmaceuticals & Health & Beauty** | Drugs, biotechnology, hospitals, Toussaint beauty brands | Dr. Lorraine Beckwith |
