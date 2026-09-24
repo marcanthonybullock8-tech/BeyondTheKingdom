@@ -10,6 +10,7 @@ These rules are LOCKED. Read `docs/` before writing anything new.
 - **Make a PDF of everything.** Write Markdown in `docs/`, then run `python3 tools/md2pdf.py docs/<file>.md` (output goes to `pdf/`). Requires `pip install reportlab`.
 - The cast is primarily African American, with a few non-Black characters.
 - The creator writes the characters. Don't invent core-character bios, birthdays, or backstory without the creator's input.
+- **No SORAS, ever** (the creator decided this on 2026-09-24). Every character, including Emma, Victoria, and Lyric, ages in real time from their locked birthdays.
 
 ## Locked format (see docs/01_Series_Format_Bible.md)
 - 250 episodes/year, Mon–Fri. Broadcast-season numbering (Sep–Sep). Episode numbers are cumulative.
