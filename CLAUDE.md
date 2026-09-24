@@ -58,3 +58,20 @@ After editing docs, run `python3 tools/md2pdf.py docs/*.md && python3 tools/comb
 - **Theodore, Reginald (#176), and Connie (#177) appear only in finale week (Eps #176–180).** They become Core Contract Cast in Season 2. Until then the audience hears only Martin's side of his calls.
 - Harlow is alive as "Julian Cross" (introduced #74). Peter rebuilt his face in 2001.
 - Finale #180: Esther's wedding, then gunfire, then "The girls are yours!" Martin knows both Sovereign's identity and the twins' paternity.
+
+## Episode scripts (episodes/ → pdf/episodes/)
+- Each script is `episodes/BTK-####.fountain`, written in the Fountain-style markup documented in `tools/script2pdf.py`. Render it with `python3 tools/script2pdf.py episodes/BTK-####.fountain`.
+- Length: 75–90 numbered pages. The title page and cast page are unnumbered front matter. Use 24–30 numbered scenes. Intercuts and continuous locations use `^` unnumbered sub-headings. Every scene gets a `~` date/time stamp. Characters' ages go in the action line on first appearance.
+- Every episode also gets a media and fan companion, `episodes/BTK-####_Media_and_Fans.md`. Render it with `python3 tools/md2pdf.py --out pdf/episodes <file>`.
+- **2005 internet voice:** no emoji, no @-mentions, no hashtags, no "don't @ me." Use emoticons and text: :) ;) <3 LOL lmao. The platforms are Blogger, LiveJournal, BlackPlanet, AOL boards, MySpace bulletins, and AIM away messages.
+- Sri Lanka was UTC+6 in 2005, so local time was EST + 11 hours.
+
+## Established in Episode #0001 (Mon Jan 3, 2005)
+- The Smilley Tower lights came on at sunrise, 7:42 AM. Victor slept at his office. Joan wore the "Washington pearls" (1963), a signal of war that Simone understood. Simone threatened to wear "the other pearls" if the Smilleys come to Marc's birthday.
+- Marc and Simone have breakfast every Monday at the Dowager House. Marc calls her "Gorgeous." Marc reads to kids at Egleston on Mondays and Thursdays (Keyonna, 7; DeAndre, 9; Nurse Tonya). He gave Lyric a pony named "Marc" for Christmas 2004. Harmony lives in a townhouse.
+- The twins call Marc "Funny man." Victoria shares his laugh, and Bea saw it. Lucius and Esther call Victoria "Dividend." Lucius's tremor is seen only by Vivienne.
+- Marc and Celeste are dating. Robert took a call from "C. RHODES" on the balcony, and Natasha noticed. The Smilleys got an automatic courtesy invitation to Marc's birthday under the 1961 bylaws.
+- Esther's car idled at the Crown Gate at 8:31 AM. She declined Sebastian's call. Odessa told her the 1952 story.
+- Marc told Amond about the gold mask: her laugh and the smell of jasmine, "3 years, 4 months, 2 days."
+- **First Onyx Coin victim:** an unidentified Black man in his early 40s, shot at close range and still wearing a Rolex, found by a dog walker at 9:52 PM by Lake Clara Meer. Hughes leaked the coin to WBKG. Martin toasted the news from his Midtown loft.
+- **The audience learns Marc is Sovereign** at the River Gate boathouse (11:41 PM): "I never gave that order... Wake up the Seven."

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Convert the project's Markdown documents to styled PDFs.
 
-Usage: python3 tools/md2pdf.py docs/*.md   (PDFs are written to pdf/)
+Usage: python3 tools/md2pdf.py [--out DIR] docs/*.md   (PDFs are written to pdf/ by default)
 """
 import re
 import sys
@@ -139,7 +139,10 @@ def build(md_path, out_dir):
 
 
 if __name__ == "__main__":
+    args = sys.argv[1:]
     out_dir = Path(__file__).resolve().parent.parent / "pdf"
-    out_dir.mkdir(exist_ok=True)
-    for p in sys.argv[1:]:
+    if args[:1] == ["--out"]:
+        out_dir, args = Path(args[1]), args[2:]
+    out_dir.mkdir(parents=True, exist_ok=True)
+    for p in args:
         print(build(p, out_dir))
